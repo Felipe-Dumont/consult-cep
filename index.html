@@ -4,11 +4,46 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500&display=swap">
+
+    <link rel="stylesheet" href="src/style.css">
+
     <title>Consult CEP</title>
 </head>
 
 <body>
 
+    <div class="container">
+
+        <h2>Busca de CEP</h2>
+        <label for="cep">CEP:</label>
+        <input type="text" id="cep" placeholder="Ex: 01001000" />
+
+        <div class="divider">ou</div>
+
+        <label for="cities">Selecione uma cidade Brasileira:</label>
+        <select id="cities">
+            <option value="">Selecione uma cidade</option>
+            <option value="20010974">Rio de Janeiro</option>
+            <option value="01153000">São Paulo</option>
+            <option value="70070080">Brasília</option>
+            <option value="40010907">Salvador</option>
+            <option value="60150973">Fortaleza</option>
+            <option value="50030903">Recife</option>
+            <option value="80010970">Curitiba</option>
+            <option value="31630900">Belo Horizonte</option>
+            <option value="91910001">Porto Alegre</option>
+            <option value="69097412">Manaus</option>
+        </select>
+
+        <button id="search">Buscar</button>
+        <div id="result"></div>
+
+    </div>
+
 </body>
+
+<script src="src/script.js"></script>
 
 </html>
