@@ -19,7 +19,7 @@
 
 ## Overview
 
-![screenshot](src\img\overview-01.png)
+![screenshot](https://github.com/Felipe-Dumont/consult-cep/blob/main/src/img/overview-01.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
@@ -53,4 +53,4 @@ Você pode abrir o arquivo index.html direto no navegador
 
 ## Describing behavior
 
-Nesse arquivo de [script](src\script.js) é possível encontrar uma descrição do comportamento do consumo fetch.
+Nesse arquivo de [script](https://github.com/Felipe-Dumont/consult-cep/blob/main/src/script.js) é possível encontrar uma descrição do comportamento do consumo fetch.
