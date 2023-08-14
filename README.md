@@ -21,8 +21,6 @@
 
 ![screenshot](https://github.com/Felipe-Dumont/consult-cep/blob/main/src/img/overview-01.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
 - Você pode encontrar uma demo [aqui](https://felipe-dumont.github.io/consult-cep/).
 - Neste projeto tive a experiência de trabalhar com HTML, CSS e JavaScript para criar uma consulta de CEP.
 - Aprendi boas práticas de consulta de tratamento de dados com o recurso Fetch do JavaScript.
